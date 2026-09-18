@@ -1,4 +1,0 @@
-bun install
-git add bun.lockb
-git commit -m "chore: add bun lockfile"
-git push
