@@ -1,0 +1,8 @@
+{
+  "name": "Remix Dawosti - Women\u0027s Clothing \u0026 Payment Portal",
+  "description": "Premium women\u0027s fashion store for Dawosti featuring eSewa, Khalti, Fonepay QR payment gateway, WhatsApp direct ordering, AI product description automation, and Google Sheets logistics admin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
